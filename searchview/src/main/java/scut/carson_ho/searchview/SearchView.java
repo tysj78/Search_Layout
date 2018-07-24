@@ -117,7 +117,7 @@ public class SearchView extends LinearLayout {
 
 
     /**
-     * 关注b
+     * 关注b1
      * 作用：初始化搜索框
      */
     private void init(){
